@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi, I'm Richelle Thorpe</h1>
----
-<h3 align="center"> Junior Full Stack Developer based in Portland, OR</h3>
-
-
+<h3 align="center"> Junior Full Stack Developer based out of Portland, OR</h3>
 
 - 🔭 I’m currently working on a mobile application with [SignedPic](https://signedpic.com/), to authenticate photos to be used in court cases
 - 🌱 I’m currently learning React Native and focusing on mobile development
